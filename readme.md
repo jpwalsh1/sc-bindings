@@ -4,3 +4,6 @@
 **Requirements:**
 * Joy2Key
 * Load appropriate Joy2Key config, this is to set the modifier button on the bottom left stick to Right Control.
+
+### Credits ###
+Base of this config is from Buzzzkillers keybindings
